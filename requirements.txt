@@ -1,0 +1,6 @@
+telebot
+telegram-bot
+pyTelegramBotAPI
+tradingview-ta
+python-telegram-bot
+python-telegram-bot[job-queue]
