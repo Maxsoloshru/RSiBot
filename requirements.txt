@@ -1,6 +1,5 @@
-telebot
-telegram-bot
-pyTelegramBotAPI
-tradingview-ta
-python-telegram-bot
-python-telegram-bot[job-queue]
+telebot==0.0.5
+telegram-bot==0.0.3
+pyTelegramBotAPI==4.12.0
+tradingview-ta==3.4.0
+python-telegram-bot==20.5
